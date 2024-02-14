@@ -1,0 +1,40 @@
+.button-can-insert {
+    background-color: rgb(82, 73, 246);
+    padding: 9px 15px 8px 15px;
+    margin: 0px 0px 0px 79.7rem;
+    border-radius: 5px;
+    font-size: 15px;
+    color: aliceblue;
+}
+
+.button-can-insert:hover {
+    border-radius: 5px;
+    color: #fff;
+    background-color: #140b6a;
+}
+
+.action-cell {
+    text-align: center !important;
+    width: 60px !important;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.add-cell {
+    margin: 0px 0px 2rem 3rem !important;
+    /* my allign */
+    height: 40px !important;
+    width: 40px !important;
+    size: 10px;
+    background-color: rgb(6, 145, 225) !important;
+    /* width: 80px !important; */
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+.candidate-header {
+    font-family: 'Calibri';
+    font-weight: normal;
+    display: inline-block;
+}

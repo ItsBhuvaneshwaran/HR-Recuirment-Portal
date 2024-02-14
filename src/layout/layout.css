@@ -1,0 +1,27 @@
+/* .body{
+    background-color: aqua ;
+    z-index: 999;
+} */
+.brand-logo {
+    width: 10rem;
+    align-items: end;
+}
+
+#main{
+    transition: margin-left .5s;
+    margin-left: 240px;
+    margin-top: 40px;
+    font-family: 'Inter';
+
+}
+
+.main-layout{
+display: flex;
+}
+
+.content{
+    flex-grow: 1;
+    padding: 10px;
+    padding-top: "5rem";
+    margin-top: "4rem";
+  }

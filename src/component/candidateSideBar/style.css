@@ -1,0 +1,14 @@
+.submenu-text {
+    margin-top: 10px;
+    /* text-align: center; */
+}
+
+.submenu-text a:hover {
+    border-radius: 5px;
+    color: #fff;
+    background-color: #0d7892;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  

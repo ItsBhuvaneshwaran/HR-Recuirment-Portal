@@ -1,0 +1,35 @@
+.nav-title {
+  /* color: rgb(0, 0, 0);
+  background-color: #fff;
+  padding-left: 12px;
+  padding-top: 10px;
+  height: 45px;
+  width: 10rem; */
+  font-weight: 1000;
+  font-family: 'Calibri';
+  margin-left: -25rem;
+  margin-top: 4px;
+  font-size: 22px;
+  /* border-radius: 5px; */
+}
+
+.base-search-box {
+  color: rgb(4, 5, 5);
+  margin-top: 1.5px;
+  margin-left: 0rem;
+  padding-left: 10px;
+  width: 20rem;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.home-icon {
+  width: 3rem;
+  margin-top: -4px;
+  margin-left: -10px;
+  /*margin-right: 20p;
+  margin-bottom: -20px; */
+}
+.nav-searchbar {
+  margin-left: 10px;
+}

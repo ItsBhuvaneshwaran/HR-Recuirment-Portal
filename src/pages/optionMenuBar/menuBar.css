@@ -1,0 +1,86 @@
+.lottie-rows {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 15px;
+}
+
+.lottie-row {
+    flex: 0 0 calc(33.33% - 20px);
+    /* Adjust the width of each row as needed */
+    text-align: center;
+    margin-right: 20px;
+    /* Add spacing between rows */
+}
+
+.lottie-container {
+    text-align: center;
+}
+
+.lottie-animation-one {
+    width: 90%;
+    max-width: 90%;
+    height: auto;
+    margin-top: -10px;
+}
+
+.lottie-animation-three {
+    width: 90%;
+    max-width: 90%;
+    height: auto;
+    margin-top: -18px;
+}
+
+.lottie-animation-four {
+    margin-left: -10px;
+    width: 115%;
+    max-width: 115%;
+    height: auto;
+    margin-top: 0px;
+}
+
+.lottie-animation-two {
+    width: 90%;
+    max-width: 90%;
+    height: auto;
+    margin-top: -6px;
+}
+
+.lottie-animation-five {
+    width: 90%;
+    max-width: 90%;
+    height: auto;
+    margin-top: 10px;
+}
+
+p {
+    margin-top: 0px;
+}
+
+.lottie-container-one {
+    margin-top: -10px;
+    margin-right: 5rem;
+}
+
+.lottie-container-two {
+    margin-top: 70px;
+    margin-bottom: -30px;
+    margin-right: 5rem;
+}
+
+.lottie-container-three {
+    margin-top: -10px;
+    margin-right: 5rem;
+}
+
+.lottie-container-four {
+    margin-top: 70px;
+    margin-right: 5rem;
+    margin-bottom: -30px;
+}
+
+.lottie-container-five {
+    margin-top: -10px;
+    margin-right: 5rem;
+}

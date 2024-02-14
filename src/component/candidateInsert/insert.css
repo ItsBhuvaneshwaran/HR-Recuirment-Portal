@@ -1,0 +1,319 @@
+.drawer-containerclasss {
+  width: 125rem;
+}
+
+.customTextField {
+  color: rgb(240, 235, 235) !important;
+  font-size: 20px !important;
+  font-family: 'Courier New' !important;
+  width: 25rem !important;
+  border-color: rgb(255, 251, 0) !important;
+  border-width: 10px !important;
+}
+.prevtextField {
+  color: rgb(240, 235, 235) !important;
+  font-size: 20px !important;
+  font-family: 'Courier New' !important;
+  width: 19rem !important;
+  border-color: rgb(255, 251, 0) !important;
+  border-width: 10px !important;
+}
+.customTextFieldOfficial{
+  width: 19rem !important;
+
+}
+
+.customTextFieldEmploye {
+  color: rgb(240, 235, 235) !important;
+  font-size: 20px !important;
+  font-family: 'Courier New' !important;
+  width: 25rem !important;
+  border-color: rgb(255, 251, 0) !important;
+  border-width: 10px !important;
+}
+.child-skill{
+  /* margin-right: -30rem !important; */
+  /* display: flex !important; */
+  /* float: right !important; */
+  color: rgb(240, 235, 235) !important;
+  font-size: 20px !important;
+  font-family: 'Courier New' !important;
+  width: 10rem !important;
+  border-color: rgb(255, 251, 0) !important;
+  border-width: 10px !important;
+
+}
+.sumarycustomTextField {
+  width: 52.6rem !important;
+  border-width: 10px !important;
+}
+
+.listofkeySkills {
+  font-size: 12px;
+  width: 50rem !important;
+  border-width: 10px !important;
+}
+
+.namefield {
+  width: 26rem !important;
+}
+
+.date-pick {
+  font-size: 12px !important;
+}
+
+/* .address-box { */
+/* height: 11.5rem !important;
+  width: 25rem !important; */
+/* width: 10px !important; */
+/* } */
+
+/* Material-UI's CSS (example) */
+.MuiInput-root {
+  /* Material-UI styles for TextField */
+  background-color: #fff;
+  /* This won't override the custom style */
+}
+
+.form-cnr {
+  background-color: aqua;
+  margin: 20px 20px 20px 20px !important;
+  box-shadow: 0 -3px 20px rgba(0, 0, 0, .5) !important;
+}
+
+/* .cart-cnr {
+  background-color: #f20000 !important;
+} */
+
+/* .profile-cnr { */
+/* background-color: #14b50f !important;
+  margin: 0px 0px 0px 30px !important;
+  font-size: 50px !important; */
+/* } */
+
+/* .grid-cnr-one { */
+/* background-color: #e4038e; */
+/* margin: 0px 0px 0px 1px !important;
+  width: 120rem; */
+/* } */
+
+.grid-cnr-two {
+  /* background-color: #6c14f9; */
+  margin: 0px 0px 0px 1px !important;
+  width: 120rem;
+}
+
+.inputTextStyle {
+  font-size: 12px !important;
+  color: rgb(2, 1, 1) !important;
+}
+
+.dade-style {
+  font-size: 12px !important;
+  color: rgb(2, 1, 1) !important;
+  padding-top: 25px !important;
+}
+
+/* fieldset.scheduler-border {
+  border: 1px groove #ddd !important;
+  padding: 0 1.4em 1.4em 1.4em !important;
+  margin: 0 0 1.5em 0 !important;
+  -webkit-box-shadow: 0px 0px 0px 0px #000;
+  box-shadow: 0px 0px 0px 0px #000;
+} */
+
+/* legend.scheduler-border {
+  font-size: 1.2em !important;
+  font-weight: bold !important; */
+/* text-align: left !important; */
+/* } */
+
+
+fieldset {
+
+  margin-left: 20px;
+  /* border: solid 1px gray; */
+  padding-top: 5px;
+  padding-right: 12px;
+  padding-bottom: 10px;
+  padding-left: 12px;
+  float: none;
+}
+
+legend {
+  box-shadow: 0 3px 10px rgba(0, 0, 0, .5) !important;
+  /* float: none; */
+  width: inherit;
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: bold;
+  height: 3rem;
+  width: 5rem;
+  padding-top: 5px;
+  margin-bottom: 5px;
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  /* border: 1px solid #ddd; */
+  padding: 0px 12px 0px 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+.custom-label {
+  font-size: 12.5px;
+}
+
+.tab-classl {
+  font-size: 12.5px !important;
+  color: red !important;
+}
+
+.back-btn {
+  margin-left: 20px;
+  margin-top: 30px;
+  /* margin-right: 20px; */
+  background: gray;
+  color: white;
+  cursor: pointer;
+  border: none;
+  font-size: 15px;
+  border-radius: 5px;
+  padding: 6px 10px 6px 10px;
+}
+
+.next-btn {
+  margin-top: 10px;
+  margin-left: 107rem;
+  background: gray;
+  color: white;
+  cursor: pointer;
+  border: none;
+  font-size: 15px;
+  border-radius: 5px;
+  padding: 6px 10px 6px 10px;
+}
+
+
+.next-btn2 {
+  /* margin-top: 10px; */
+  margin-left: 101rem;
+  background: gray;
+  color: white;
+  cursor: pointer;
+  border: none;
+  font-size: 15px;
+  border-radius: 5px;
+  padding: 6px 10px 6px 10px;
+}
+
+.next-btn3 {
+  /* margin-top: 10px; */
+  margin-left: 97.5rem;
+  background: gray;
+  color: white;
+  cursor: pointer;
+  border: none;
+  font-size: 15px;
+  border-radius: 5px;
+  padding: 6px 10px 6px 10px;
+}
+
+.next-btn4 {
+  /* margin-top: 10px; */
+  margin-left: 74rem;
+  background: gray;
+  color: white;
+  cursor: pointer;
+  border: none;
+  font-size: 15px;
+  border-radius: 5px;
+  padding: 6px 10px 6px 10px;
+}
+
+.add-can {
+  margin-top: 12px !important;
+  /* text-align: left; */
+  height: 40px !important;
+  width: 40px !important;
+  background-color: rgb(82, 73, 246) !important;
+  /* width: 80px !important; */
+  display: flex;
+  /* justify-content: space-between; */
+}
+
+.remove-detail {
+  margin: 10px 0px 0px 109.6rem !important;
+  /* my allign */
+  height: 40px !important;
+  width: 40px !important;
+  size: 10px;
+  background-color: rgb(82, 73, 246) !important;
+  /* width: 80px !important; */
+  display: flex;
+  /* justify-content: space-between; */
+
+}
+
+.remove-offdetail {
+  margin: 10px 0px 0px 82.3rem !important;
+  /* my allign */
+  height: 40px !important;
+  width: 40px !important;
+  size: 10px;
+  background-color: rgb(82, 73, 246) !important;
+  /* width: 80px !important; */
+  display: flex;
+  /* justify-content: space-between; */
+
+}
+
+.keyCustomTextField {
+  color: rgb(240, 235, 235) !important;
+  font-size: 20px !important;
+  font-family: 'Courier New' !important;
+  width: 20rem !important;
+  border-color: rgb(255, 251, 0) !important;
+  border-width: 10px !important;
+}
+
+.keyExCustomTextField {
+  /* / margin-right: 40rem; / */
+  color: rgb(240, 235, 235) !important;
+  font-size: 20px !important;
+  font-family: 'Courier New' !important;
+  width: 14rem !important;
+  border-color: rgb(255, 251, 0) !important;
+  border-width: 10px !important;
+}
+
+.rkey{
+  margin: 10px 0px 0px 39rem !important;
+  /* / my allign / */
+  height: 40px !important;
+  width: 40px !important;
+  size: 10px;
+  background-color: rgb(82, 73, 246) !important;
+  /* / width: 80px !important; / */
+  display: flex;
+  /* / justify-content: space-between; / */
+}
+
+.dkey{
+  margin-top: 12px !important;
+  /* / text-align: left; / */
+  height: 40px !important;
+  width: 40px !important;
+  background-color: rgb(82, 73, 246) !important;
+  /* / width: 80px !important; / */
+  display: flex;
+}
